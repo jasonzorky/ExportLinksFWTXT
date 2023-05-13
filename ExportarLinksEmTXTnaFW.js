@@ -5,10 +5,8 @@
 // @description  Exporta links em TXT da div 'upload_links' na página 'https://filewarez.tv/showthread.php?t=*', ignorando os links que começam com 'vlc://'
 // @author       JasonZorky
 // @match        https://filewarez.tv/showthread.php?t=*
-// @match        https://raw.githubusercontent.com/*
 // @updateURL    https://raw.githubusercontent.com/jasonzorky/ExportLinksFWTXT/main/ExportarLinksEmTXTnaFW.js
 // @downloadURL  https://raw.githubusercontent.com/jasonzorky/ExportLinksFWTXT/main/ExportarLinksEmTXTnaFW.js
-// @grant        GM_xmlhttpRequest
 // @grant        none
 // ==/UserScript==
 
