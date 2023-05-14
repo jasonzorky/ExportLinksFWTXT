@@ -7,7 +7,9 @@
 // @match        https://filewarez.tv/showthread.php?t=*
 // @updateURL    https://raw.githubusercontent.com/jasonzorky/ExportLinksFWTXT/main/ExportarLinksEmTXTnaFW.js
 // @downloadURL  https://raw.githubusercontent.com/jasonzorky/ExportLinksFWTXT/main/ExportarLinksEmTXTnaFW.js
-// @grant        none
+// @grant        GM_getResourceText
+// @grant        GM_addStyle
+// @grant        GM_xmlhttpRequest
 // ==/UserScript==
 
 (function() {
