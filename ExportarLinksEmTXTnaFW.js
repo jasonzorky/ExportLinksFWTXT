@@ -10,6 +10,7 @@
 // @grant        GM_getResourceText
 // @grant        GM_addStyle
 // @grant        GM_xmlhttpRequest
+// @grant        GM_getValue
 // ==/UserScript==
 
 (function() {
