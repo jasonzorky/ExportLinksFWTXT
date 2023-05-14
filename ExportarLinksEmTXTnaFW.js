@@ -15,7 +15,7 @@
 
     function exportLinks(event) {
         event.preventDefault();
-        const links = document.querySelectorAll('#upload_links a:not([href^="vlc://"])');
+        const links = document.querySelectorAll('#upload_links a:not([href^="vlc://"]):not([href^="https://play."])');
         const text = `${location.href}\n${[...links].map(link => link.href).join('\n')}`;
         const blob = new Blob([text], {type: 'text/plain'});
         const url = URL.createObjectURL(blob);
