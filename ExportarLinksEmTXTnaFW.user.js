@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Exportar Links em TXT na FW
+// @name         Exportar Links de downloads em TXT na FW
 // @namespace    JasonZorky
 // @version      1.1
 // @description  Exporta links em TXT da div 'upload_links' na página 'https://filewarez.tv/showthread.php?t=*', ignorando os links que começam com 'vlc://' e 'https://play.'
