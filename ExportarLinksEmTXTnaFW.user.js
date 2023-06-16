@@ -1,16 +1,13 @@
 // ==UserScript==
-// @name         Exportar Links em TXT na FW
+// @name         Exportar Links de downloads em TXT na FW
 // @namespace    JasonZorky
 // @version      1.1
-// @description  Exporta links em TXT da div 'upload_links' na página 'https://filewarez.tv/showthread.php?t=*', ignorando os links que começam com 'vlc://'
+// @description  Exporta links em TXT da div 'upload_links' na página 'https://filewarez.tv/showthread.php?t=*', ignorando os links que começam com 'vlc://' e 'https://play.'
 // @author       JasonZorky
 // @match        https://filewarez.tv/showthread.php?t=*
-// @updateURL    https://raw.githubusercontent.com/jasonzorky/ScriptsFW/main/ExportarLinksEmTXTnaFW.user.js
-// @downloadURL  https://raw.githubusercontent.com/jasonzorky/ScriptsFW/main/ExportarLinksEmTXTnaFW.user.js
-// @grant        GM_getResourceText
-// @grant        GM_addStyle
-// @grant        GM_xmlhttpRequest
-// @grant        GM_getValue
+// @updateURL    https://raw.githubusercontent.com/jasonzorky/ScriptsFW/master/ExportarLinksEmTXTnaFW.user.js
+// @downloadURL  https://raw.githubusercontent.com/jasonzorky/ScriptsFW/master/ExportarLinksEmTXTnaFW.user.js
+// @grant        none
 // ==/UserScript==
 
 (function() {
