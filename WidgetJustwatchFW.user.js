@@ -6,8 +6,8 @@
 // @match        https://www.imdb.com/title/*
 // @match        https://filewarez.tv/showthread.php?t=*
 // @match        https://filewarez.tv/showthread.php?p=*
-// @updateURL    https://raw.githubusercontent.com/jasonzorky/ExportLinksFWTXT/master/ExportarLinksEmTXTnaFW.user.js
-// @downloadURL  https://raw.githubusercontent.com/jasonzorky/ExportLinksFWTXT/master/ExportarLinksEmTXTnaFW.user.js
+// @updateURL    https://raw.githubusercontent.com/jasonzorky/ScriptsFW/master/WidgetJustwatchFW.user.js
+// @downloadURL  https://raw.githubusercontent.com/jasonzorky/ScriptsFW/master/WidgetJustwatchFW.user.js
 // @grant        none
 // ==/UserScript==
 
