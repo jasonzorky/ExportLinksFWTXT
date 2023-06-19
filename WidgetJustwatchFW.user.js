@@ -32,7 +32,7 @@
                 // Faz o Mapeamento do tipo de título para 'movie' ou 'show'
                 const TipoTitulo = type === 'movie' ? 'movie' : 'show';
 
-                fetch(`https://corsproxy.io/?https://widget-justwatch.jztools.hair/?imdb=${imdb}&TipoTitulo=${TipoTitulo}`)
+                fetch(`https://widget-justwatch.jztools.hair/?imdb=${imdb}&TipoTitulo=${TipoTitulo}`)
                     .then(response => response.text())
                     .then(html => {
                         const ElementFW = document.querySelector('#postador_titleinfo .blockrow:last-child'); // Última classe 'blockrow' dentro da div com id 'postador_titleinfo'
@@ -118,7 +118,7 @@
                 // Mapear o tipo de título para 'movie' ou 'show'
                 const TipoTitulo = type === 'movie' ? 'movie' : 'show';
 
-                fetch(`https://corsproxy.io/?https://widget-justwatch.jztools.hair/?imdb=${imdb}&TipoTitulo=${TipoTitulo}`)
+                fetch(`https://widget-justwatch.jztools.hair/?imdb=${imdb}&TipoTitulo=${TipoTitulo}`)
                     .then(response => response.text())
                     .then(html => {
                         const ElementFW2 = document.querySelector('.sc-385ac629-3.kRUqXl');
