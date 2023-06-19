@@ -8,7 +8,9 @@
 // @match        https://filewarez.tv/showthread.php?p=*
 // @updateURL    https://raw.githubusercontent.com/jasonzorky/ScriptsFW/master/WidgetJustwatchFW.user.js
 // @downloadURL  https://raw.githubusercontent.com/jasonzorky/ScriptsFW/master/WidgetJustwatchFW.user.js
-// @grant        none
+// @grant        GM_setValue
+// @grant        GM_getValue
+// @grant        GM_notification
 // ==/UserScript==
 
 // CÓDIGO PARA ADICIONAR A BARRA DE STREAMINGS EM filewarez.tv
