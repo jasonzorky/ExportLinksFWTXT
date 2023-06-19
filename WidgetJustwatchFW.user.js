@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         IMDB_FILEWAREZ_JUSTWATCH WIDGET COM OS STREAMINGS
 // @namespace    JasonZorky
+// @author       JasonZorky
 // @version      1.60
 // @description  Adiciona Um WIDGET do Justwatch Com os Streamings Disponiveis Do Próprio Filme ou Série!
 // @match        https://www.imdb.com/title/*
