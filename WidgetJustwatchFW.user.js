@@ -11,7 +11,6 @@
 // @downloadURL  https://github.com/jasonzorky/ScriptsFW/raw/master/WidgetJustwatchFW.user.js
 // ==/UserScript==
 
-
 // CÓDIGO PARA ADICIONAR A BARRA DE STREAMINGS EM filewarez.tv
 (function() {
     'use strict';
