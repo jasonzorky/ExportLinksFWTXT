@@ -7,12 +7,10 @@
 // @match        https://www.imdb.com/title/*
 // @match        https://filewarez.tv/showthread.php?t=*
 // @match        https://filewarez.tv/showthread.php?p=*
-// @updateURL    https://raw.githubusercontent.com/jasonzorky/ScriptsFW/master/WidgetJustwatchFW.user.js
-// @downloadURL  https://raw.githubusercontent.com/jasonzorky/ScriptsFW/master/WidgetJustwatchFW.user.js
-// @grant        GM_setValue
-// @grant        GM_getValue
-// @grant        GM_notification
+// @updateURL    https://github.com/jasonzorky/ScriptsFW/raw/master/WidgetJustwatchFW.user.js
+// @downloadURL  https://github.com/jasonzorky/ScriptsFW/raw/master/WidgetJustwatchFW.user.js
 // ==/UserScript==
+
 
 // CÓDIGO PARA ADICIONAR A BARRA DE STREAMINGS EM filewarez.tv
 (function() {
